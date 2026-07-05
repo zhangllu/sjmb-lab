@@ -13,7 +13,7 @@
 ![readme-banner](images/image.png)
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/badge/version-v0.5.1-green)]()
+[![Version](https://img.shields.io/badge/version-v0.5.5-green)]()
 
 ## 作品一：身份是持续的生成
 
@@ -38,6 +38,14 @@
 **当前状态**：序言 + 十四章结构，持续修订中
 
 [沿此漫步 →](books/专题作品3-给现代人的焦虑辨认地图/README.md)
+
+## 作品四：漫步的考古史
+
+这是关于"个人选择考古"的一组笔记。它不是人生回顾，而是把那些年走过的路一块块挖出来——从一张志愿表、一堆考研资料、一节上海地铁、一枚镀金门牌、一片自由旷野、一台 ToB 碎纸机，到一把自己打造的探铲。它关心的不是"我做过什么"，而是"这些东西为什么会埋在这里"。
+
+**当前状态**：序言 + 七篇文章，v0.1 已入库
+
+[沿此漫步 →](books/专题作品4-漫步的考古史/README.md)
 
 ## License
 

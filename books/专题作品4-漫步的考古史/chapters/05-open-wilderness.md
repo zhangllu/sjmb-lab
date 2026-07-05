@@ -1,7 +1,7 @@
 ---
 title: "自由旷野里的我"
 chapter: 5
-status: stable
+status: draft
 created: 2026-07-05
 updated: 2026-07-05
 tags:
@@ -64,6 +64,9 @@ summary: "自由本身不是系统。一个人不能只靠风生活。"
 但一个人不能只靠风生活。
 
 ## Changelog
+
+### 2026-07-05 09:30
+- 状态从 stable 改为 draft。
 
 ### 2026-07-05 09:00
 - 从原始组块文件整理入库，添加 front matter。

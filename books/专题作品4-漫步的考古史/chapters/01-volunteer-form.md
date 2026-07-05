@@ -1,7 +1,7 @@
 ---
 title: "志愿表上的我"
 chapter: 1
-status: stable
+status: draft
 created: 2026-07-05
 updated: 2026-07-05
 tags:
@@ -69,6 +69,9 @@ summary: "一枚旧硬币，正面刻着'理科更吃香'，背面刻着'女孩�
 而那时的我，把这枚旧硬币攥在手里。正面写着前途，背面写着安全。我以为不管翻到哪一面，都会是坦途。
 
 ## Changelog
+
+### 2026-07-05 09:30
+- 状态从 stable 改为 draft。
 
 ### 2026-07-05 09:00
 - 从原始组块文件整理入库，添加 front matter。

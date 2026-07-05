@@ -1,7 +1,7 @@
 ---
 title: "碎纸机里的我"
 chapter: 6
-status: stable
+status: draft
 created: 2026-07-05
 updated: 2026-07-05
 tags:
@@ -74,6 +74,9 @@ ToB 项目像一台永远开着的碎纸机。
 「我到底是在交付项目，还是在把自己的创造力，一点点磨进别人的验收表？」
 
 ## Changelog
+
+### 2026-07-05 09:30
+- 状态从 stable 改为 draft。
 
 ### 2026-07-05 09:00
 - 从原始组块文件整理入库，添加 front matter。

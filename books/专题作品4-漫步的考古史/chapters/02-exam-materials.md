@@ -1,7 +1,7 @@
 ---
 title: "考研资料堆里的我"
 chapter: 2
-status: stable
+status: draft
 created: 2026-07-05
 updated: 2026-07-05
 tags:
@@ -59,6 +59,9 @@ summary: "命运不只是听安排，也可以读规则。"
 只是她还不知道，地图之外，还有地形。
 
 ## Changelog
+
+### 2026-07-05 09:30
+- 状态从 stable 改为 draft。
 
 ### 2026-07-05 09:00
 - 从原始组块文件整理入库，添加 front matter。

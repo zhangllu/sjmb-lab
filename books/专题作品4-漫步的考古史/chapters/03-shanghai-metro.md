@@ -1,7 +1,7 @@
 ---
 title: "上海地铁里的我"
 chapter: 3
-status: stable
+status: draft
 created: 2026-07-05
 updated: 2026-07-05
 tags:
@@ -69,6 +69,9 @@ summary: "上海像一面很亮的橱窗，可橱窗再亮，也不会告诉你�
 可橱窗再亮，也不会告诉你：哪一样东西真正适合你。
 
 ## Changelog
+
+### 2026-07-05 09:30
+- 状态从 stable 改为 draft。
 
 ### 2026-07-05 09:00
 - 从原始组块文件整理入库，添加 front matter。

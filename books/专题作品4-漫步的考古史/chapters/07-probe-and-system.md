@@ -1,7 +1,7 @@
 ---
 title: "探铲与系统"
 chapter: 7
-status: stable
+status: draft
 created: 2026-07-05
 updated: 2026-07-05
 tags:
@@ -108,6 +108,9 @@ AI 加速发展以后，我对一个人做事情突然多了一点信心。
 是慢慢造出一块不会把自己连根拔起的土。
 
 ## Changelog
+
+### 2026-07-05 09:30
+- 状态从 stable 改为 draft。
 
 ### 2026-07-05 09:00
 - 从原始组块文件整理入库，添加 front matter。

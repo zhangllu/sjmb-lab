@@ -101,7 +101,7 @@ docs_staged=$(git -c core.quotepath=false diff --cached --name-only --diff-filte
 readme_staged=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR -- 'README.md' 2>/dev/null)
 
 if [ -n "$docs_staged" ] && [ -z "$readme_staged" ]; then
-  warn "books/ 下有文件变更但 README.md 未同步更新（目录表/版本号）"
+  error "books/ 下有文件变更但 README.md 未同步更新（目录表/版本号）"
 fi
 
 exit $HAD_ERRORS

@@ -8,14 +8,14 @@
 
 | 章节 | 标题 | 状态 |
 |---|---|---|
-| 序言 | [我不是在回顾人生](chapters/00-preface.md) | stable |
-| 01 | [志愿表上的我](chapters/01-volunteer-form.md) | stable |
-| 02 | [考研资料堆里的我](chapters/02-exam-materials.md) | stable |
-| 03 | [上海地铁里的我](chapters/03-shanghai-metro.md) | stable |
-| 04 | [镀金门牌前的我](chapters/04-gilded-sign.md) | stable |
-| 05 | [自由旷野里的我](chapters/05-open-wilderness.md) | stable |
-| 06 | [碎纸机里的我](chapters/06-paper-shredder.md) | stable |
-| 07 | [探铲与系统](chapters/07-probe-and-system.md) | stable |
+| 序言 | [我不是在回顾人生](chapters/00-preface.md) | draft |
+| 01 | [志愿表上的我](chapters/01-volunteer-form.md) | draft |
+| 02 | [考研资料堆里的我](chapters/02-exam-materials.md) | draft |
+| 03 | [上海地铁里的我](chapters/03-shanghai-metro.md) | draft |
+| 04 | [镀金门牌前的我](chapters/04-gilded-sign.md) | draft |
+| 05 | [自由旷野里的我](chapters/05-open-wilderness.md) | draft |
+| 06 | [碎纸机里的我](chapters/06-paper-shredder.md) | draft |
+| 07 | [探铲与系统](chapters/07-probe-and-system.md) | draft |
 
 ## 推荐阅读路径
 

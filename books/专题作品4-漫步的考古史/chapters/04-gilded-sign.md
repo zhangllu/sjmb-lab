@@ -1,7 +1,7 @@
 ---
 title: "镀金门牌前的我"
 chapter: 4
-status: stable
+status: draft
 created: 2026-07-05
 updated: 2026-07-05
 tags:
@@ -68,6 +68,9 @@ summary: "有些门牌只是门牌。它亮，不代表里面有光。"
 它亮，不代表里面有光。
 
 ## Changelog
+
+### 2026-07-05 09:30
+- 状态从 stable 改为 draft。
 
 ### 2026-07-05 09:00
 - 从原始组块文件整理入库，添加 front matter。
